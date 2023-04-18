@@ -37,4 +37,10 @@
     
 </div><br/>
 
-"Sou estudante de Engenharia de Software, amante das tecnologias e espero um dia poder mudar o mundo com ela!"
+"Olá, sou João Vitor, estudante de Engenharia de Software com conhecimentos em várias linguagens de programação e habilidades avançadas em informática. Sou apaixonado pelo desenvolvimento de software e estou sempre em busca de novas oportunidades para aprender e crescer.
+
+No momento, meu objetivo pessoal a curto prazo é encontrar uma posição como desenvolvedor de software ou web, onde eu possa aplicar minhas habilidades e contribuir para o sucesso da equipe. Acredito que essa experiência será fundamental para me ajudar a alcançar meu objetivo a longo prazo: criar minha própria empresa de desenvolvimento de software.
+
+Estou sempre disposto a enfrentar novos desafios e a trabalhar duro para alcançar meus objetivos. Sou dedicado, comprometido e tenho uma mentalidade empreendedora. Sei que a construção de uma empresa de sucesso será uma jornada complicada, mas estou confiante em minha capacidade de enfrentar os desafios e superar as adversidades.
+
+Estou animado para me conectar com profissionais de tecnologia, empresas inovadoras e pessoas que compartilham minha paixão pela inovação e tecnologia. Se você estiver procurando por um estudante de desenvolvimento de software talentoso e comprometido, entre em contato comigo."
