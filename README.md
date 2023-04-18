@@ -1,6 +1,7 @@
-### Olá! Meu nome é João Vitor 💻👓
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Olá,%20meu%20nome%20é%20João%20Vitor&fontSize=40&desc=Bem%20vindo%20ao%20meu%20perfil!)
 
-<div> 
+## Redes Sociais
+<div>
     <a href = "mailto:joaovitorferreiragoncalves3691@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/s2_joao_vitor_s2/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joao-vitor-ferreiras"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -45,4 +46,4 @@ Estou sempre disposto a enfrentar novos desafios e a trabalhar duro para alcanç
 
 Estou animado para me conectar com profissionais de tecnologia, empresas inovadoras e pessoas que compartilham minha paixão pela inovação e tecnologia. Se você estiver procurando por um estudante de desenvolvimento de software talentoso e comprometido, entre em contato comigo."
 
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+
