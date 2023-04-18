@@ -45,4 +45,4 @@ Estou sempre disposto a enfrentar novos desafios e a trabalhar duro para alcanç
 
 Estou animado para me conectar com profissionais de tecnologia, empresas inovadoras e pessoas que compartilham minha paixão pela inovação e tecnologia. Se você estiver procurando por um estudante de desenvolvimento de software talentoso e comprometido, entre em contato comigo."
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=João%20Vitor&fontSize=90" />
