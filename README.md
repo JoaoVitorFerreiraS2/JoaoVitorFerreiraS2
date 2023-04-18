@@ -44,3 +44,5 @@ No momento, meu objetivo pessoal a curto prazo é encontrar uma posição como d
 Estou sempre disposto a enfrentar novos desafios e a trabalhar duro para alcançar meus objetivos. Sou dedicado, comprometido e tenho uma mentalidade empreendedora. Sei que a construção de uma empresa de sucesso será uma jornada complicada, mas estou confiante em minha capacidade de enfrentar os desafios e superar as adversidades.
 
 Estou animado para me conectar com profissionais de tecnologia, empresas inovadoras e pessoas que compartilham minha paixão pela inovação e tecnologia. Se você estiver procurando por um estudante de desenvolvimento de software talentoso e comprometido, entre em contato comigo."
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=80&section=footer"/>
