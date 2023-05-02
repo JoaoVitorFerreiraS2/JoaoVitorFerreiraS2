@@ -41,6 +41,8 @@
     
 </div><br/>
 
+## Quem sou eu?
+
 "Olá, meu nome é João Vitor, estudante de Engenharia de Software com conhecimentos em várias linguagens de programação e habilidades avançadas em informática. Sou apaixonado pelo desenvolvimento de software e estou sempre em busca de novas oportunidades para aprender e crescer.
 
 No momento, meu objetivo pessoal a curto prazo é encontrar uma posição como desenvolvedor de software ou web, onde eu possa aplicar minhas habilidades e contribuir para o sucesso da equipe. Acredito que essa experiência será fundamental para me ajudar a alcançar meu objetivo a longo prazo: criar minha própria empresa de desenvolvimento de software.
