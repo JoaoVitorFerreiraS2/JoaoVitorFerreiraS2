@@ -46,6 +46,13 @@
 
 "Olá, meu nome é João Vitor, estudante de Engenharia de Software com conhecimentos em várias linguagens de programação e habilidades avançadas em informática. Sou apaixonado pelo desenvolvimento de software e estou sempre em busca de novas oportunidades para aprender e crescer.
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 No momento, meu objetivo pessoal a curto prazo é encontrar uma posição como desenvolvedor de software ou web, onde eu possa aplicar minhas habilidades e contribuir para o sucesso da equipe. Acredito que essa experiência será fundamental para me ajudar a alcançar meu objetivo a longo prazo: criar minha própria empresa de desenvolvimento de software.
 
 Estou sempre disposto a enfrentar novos desafios e a trabalhar duro para alcançar meus objetivos. Sou dedicado, comprometido e tenho uma mentalidade empreendedora. Sei que a construção de uma empresa de sucesso será uma jornada complicada, mas estou confiante em minha capacidade de enfrentar os desafios e superar as adversidades.
