@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Olá,%20meu%20nome%20é%20João%20Vitor%20Ferreira%&fontSize=40&desc=Bem%20vindo%20ao%20meu%20perfil!)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Redes Sociais
 <div>
@@ -13,6 +12,7 @@
 
 ## Tecnologias que uso no meu dia a dia
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
