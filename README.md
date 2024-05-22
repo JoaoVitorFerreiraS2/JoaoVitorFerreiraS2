@@ -54,6 +54,6 @@
 [![card](https://github-readme-stats.vercel.app/api?username=JoaoVitorFerreiraS2&theme=tokyonight&show_icons=true)](https://github.com/JoaoVitorFerreiraS2/github-readme-stats)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 
 
