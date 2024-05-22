@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Olá,%20meu%20nome%20é%20João%20Vitor%20Ferreira%&fontSize=40&desc=Bem%20vindo%20ao%20meu%20perfil!)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Olá,%20meu%20nome%20é%20João%20Vitor%20Ferreira%&fontSize=40)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Freeman&size=30&duration=4000&pause=2000&color=F73838&background=55000000&center=true&vCenter=true&random=true&width=500&lines=Bem+vindo(a)+ao+meu+GitHub!+%F0%9F%8F%96%EF%B8%8F;Welcome+to+my+GitHub!+%F0%9F%97%BD;Welkom+op+mijn+GitHub!+%F0%9F%8F%98%EF%B8%8F;Willkommen+auf+meinem+GitHub!+%F0%9F%92%B8;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub%EF%BC%81%F0%9F%8D%B1;Bienvenue+sur+mon+GitHub%C2%A0!+%F0%9F%A5%90;%D0%9B%D0%B0%D1%81%D0%BA%D0%B0%D0%B2%D0%BE+%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D0%BC%D0%BE+%D0%BD%D0%B0+%D0%BC%D1%96%D0%B9+GitHub!+%F0%9F%92%AA;Grata+meo+GitHub!+%E2%9C%9D;%E7%A7%81%E3%81%AE+GitHub+%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!+%F0%9F%A5%8B;Velkommen+til+min+GitHub!+%F0%9F%A5%B6)](https://git.io/typing-svg)
 
 ## Redes Sociais
 <div>
@@ -43,22 +44,16 @@
     <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img align="center" alt="NOTEPAD" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
     <img align="center" alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <br>
+    <br>
     <img align="center" alt="VISUALSTUDIOCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     
 </div><br/>
 
-## Quem sou eu?
-
-"Olá, meu nome é João Vitor, estudante em Bacharelado de Engenharia de Software com conhecimentos em várias linguagens de programação e habilidades avançadas em informática. Sou apaixonado pelo desenvolvimento de software e estou sempre em busca de novas oportunidades para aprender e crescer.
-
-No momento, meu objetivo pessoal a curto prazo é encontrar uma posição como desenvolvedor de software ou web, onde eu possa aplicar minhas habilidades. Acredito que essa experiência será fundamental para me ajudar a alcançar meu objetivo a longo prazo: criar minha própria empresa de desenvolvimento de software.
-
-Estou sempre disposto a enfrentar qualquer tipo de desafio, seja ele técnico, ou pessoal. Sou dedicado, comprometido e tenho uma mentalidade confiante e inabalável. Sei que a construção de uma carreira de sucesso será complicada, mas estou confiante em minha capacidade de enfrentar qualquer e superar as adversidades.
-
-Pois é como o Emicida disse em uma de suas músicas: "Nós somos os únicos representantes do nossos sonho na face da terra!"
-
-Estou animado para me conectar com profissionais da tecnologia, empresas e pessoas que compartilham minha paixão pela inovação e tecnologia. Se você estiver procurando por uma pessoa que não desiste, e que aprende tudo o que tem para aprender, não pelo dinheiro, mas sim pelo próprio sonho, entre em contato comigo."
 
 [![card](https://github-readme-stats.vercel.app/api?username=JoaoVitorFerreiraS2&theme=tokyonight&show_icons=true)](https://github.com/JoaoVitorFerreiraS2/github-readme-stats)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
 
 
