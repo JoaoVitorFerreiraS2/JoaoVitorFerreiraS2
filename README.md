@@ -37,21 +37,12 @@
 
 </div><br/>
 
-## IDE's que mais uso
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="ATOM" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
-    <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img align="center" alt="NOTEPAD" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-    <img align="center" alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <br>
-    <br>
-    <img align="center" alt="VISUALSTUDIOCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    
-</div><br/>
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=JoaoVitorFerreiraS2&theme=tokyonight&show_icons=true)](https://github.com/JoaoVitorFerreiraS2/github-readme-stats)
+<img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=henriquef96&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
