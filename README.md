@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Olá,%20meu%20nome%20é%20João%20Vitor%20Ferreira%&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&text=Hello,%20my%20name%20is%20João%20Vitor%20Ferreira%&fontSize=40)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Freeman&size=30&duration=4000&pause=2000&color=F73838&background=55000000&center=true&vCenter=true&random=true&width=500&lines=Bem+vindo(a)+ao+meu+GitHub!+%F0%9F%8F%96%EF%B8%8F;Welcome+to+my+GitHub!+%F0%9F%97%BD;Welkom+op+mijn+GitHub!+%F0%9F%8F%98%EF%B8%8F;Willkommen+auf+meinem+GitHub!+%F0%9F%92%B8;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub%EF%BC%81%F0%9F%8D%B1;Bienvenue+sur+mon+GitHub%C2%A0!+%F0%9F%A5%90;%D0%9B%D0%B0%D1%81%D0%BA%D0%B0%D0%B2%D0%BE+%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D0%BC%D0%BE+%D0%BD%D0%B0+%D0%BC%D1%96%D0%B9+GitHub!+%F0%9F%92%AA;Grata+meo+GitHub!+%E2%9C%9D;%E7%A7%81%E3%81%AE+GitHub+%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!+%F0%9F%A5%8B;Velkommen+til+min+GitHub!+%F0%9F%A5%B6)](https://git.io/typing-svg)
 
-## Redes Sociais
+## Social Media
 <div>
     <a href = "mailto:joaovitorferreiragoncalves3691@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/s2_joao_vitor_s2/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,7 +11,7 @@
     
 </div>
 
-## Tecnologias que uso no meu dia a dia
+## Technologies I use in my daily life
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
