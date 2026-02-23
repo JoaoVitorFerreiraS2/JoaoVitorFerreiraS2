@@ -36,16 +36,6 @@
 
 
 </div><br/>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorFerreiraS2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-</table>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
