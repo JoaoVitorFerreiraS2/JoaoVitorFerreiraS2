@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER (onda animada cyber) ═══════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:0E5C8A,100:22D3EE&height=210&section=header&text=João%20Vitor%20Ferreira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20•%20Arapoti,%20PR%20🇧🇷&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:0E5C8A,100:22D3EE&height=210&section=header&text=João%20Vitor%20Ferreira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20•%20Curitiba,%20PR%20🇧🇷&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
