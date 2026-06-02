@@ -1,11 +1,11 @@
 <!-- ═══════════════════ HEADER (onda animada cyber) ═══════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:0E5C8A,100:22D3EE&height=210&section=header&text=João%20Vitor%20Ferreira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20•%20Curitiba,%20PR%20🇧🇷&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:0E5C8A,100:22D3EE&height=210&section=header&text=João%20Vitor%20Ferreira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20•%20Curitiba,%20PR%20|%20BR&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JoaoVitorFerreiraS2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=Bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!;%3C%2F%3E+Sempre+martelando+pra+melhorar;Talvez+em+outra+vida...+mas+darei+tudo+nessa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=580&lines=Bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!;%3C%2F%3E+Sempre+martelando+pra+melhorar" alt="Typing SVG" />
   </a>
 </p>
 
