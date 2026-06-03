@@ -85,24 +85,14 @@ I'm **ambitious and proactive**: I love leaving my comfort zone and automating/i
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorFerreiraS2&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorFerreiraS2&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorFerreiraS2&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoVitorFerreiraS2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </p>
 
 <!-- 🐍 SNAKE: a cobrinha que "come" suas contribuições.
      Precisa do GitHub Action (Platane/snk) gerando o SVG. Quando configurar, descomente:
 <p align="center">
   <img src="https://raw.githubusercontent.com/JoaoVitorFerreiraS2/JoaoVitorFerreiraS2/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
--->
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:22D3EE&height=3&width=100%" alt="divider" />
 
